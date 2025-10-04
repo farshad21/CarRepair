@@ -1,0 +1,7 @@
+C:\Users\farsh\Desktop\VS Projects\Git\Main\CarRepair\CarRepair\bin\Debug\CarRepair.exe.config
+C:\Users\farsh\Desktop\VS Projects\Git\Main\CarRepair\CarRepair\bin\Debug\CarRepair.exe
+C:\Users\farsh\Desktop\VS Projects\Git\Main\CarRepair\CarRepair\bin\Debug\CarRepair.pdb
+C:\Users\farsh\Desktop\VS Projects\Git\Main\CarRepair\CarRepair\obj\Debug\CarRepair.csproj.AssemblyReference.cache
+C:\Users\farsh\Desktop\VS Projects\Git\Main\CarRepair\CarRepair\obj\Debug\CarRepair.csproj.CoreCompileInputs.cache
+C:\Users\farsh\Desktop\VS Projects\Git\Main\CarRepair\CarRepair\obj\Debug\CarRepair.exe
+C:\Users\farsh\Desktop\VS Projects\Git\Main\CarRepair\CarRepair\obj\Debug\CarRepair.pdb
